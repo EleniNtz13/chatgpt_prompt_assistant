@@ -26,8 +26,3 @@ This project allows you to understand how a conversational AI system works **wit
    ```bash
    git clone https://github.com/yourusername/chatgpt_prompt_assistant.git
    cd chatgpt_prompt_assistant
-
-## Project Information 📅 
-**Created:** November 2025  
-**Last Updated:** November 2025  
-
