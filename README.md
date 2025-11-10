@@ -18,13 +18,3 @@ This project allows you to understand how a conversational AI system works **wit
 - Built-in libraries only (`random`)
 - Designed for easy integration with the OpenAI API
 
-
-## How to Run 🚀
-
-1. **Clone or download** this repository
-   ```bash
-   git clone https://github.com/EleniNtz13/chatgpt_prompt_assistant.git
-   cd chatgpt_prompt_assistant
-
-
-
