@@ -1,13 +1,8 @@
-# ============================================================
 #  ChatGPT Prompt Assistant (Offline Mock Version with Memory)
-#  ------------------------------------------------------------
-# ============================================================
 
 import random
 
-# ============================================================
-# 🧩 Mock AI Response Generator (Simulated ChatGPT Behavior)
-# ============================================================
+# Mock AI Response Generator (Simulated ChatGPT Behavior)
 def mock_ai_response(user_input, conversation_history):
     """
     Generates a mock ChatGPT-like response.
@@ -67,4 +62,5 @@ while True:
 
     # Display the AI response
     print(f"🤖 Assistant: {assistant_reply}")
+
 
