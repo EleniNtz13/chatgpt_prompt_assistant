@@ -1,12 +1,6 @@
 # ============================================================
 #  ChatGPT Prompt Assistant (Offline Mock Version with Memory)
 #  ------------------------------------------------------------
-#  Author: [Your Name]
-#  Description:
-#     This is an offline, simulated version of a ChatGPT-like
-#     assistant that mimics conversational AI behavior.
-#     It includes short-term memory to make the dialogue feel
-#     natural, even without connecting to the OpenAI API.
 # ============================================================
 
 import random
@@ -73,3 +67,4 @@ while True:
 
     # Display the AI response
     print(f"🤖 Assistant: {assistant_reply}")
+
