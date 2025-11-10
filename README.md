@@ -1,6 +1,6 @@
 # 🤖 ChatGPT Prompt Assistant (Offline Mock Version with Memory)
 
-A simple **offline simulation** of a ChatGPT-style assistant — created in Python.
+A simple **offline simulation** of a ChatGPT-style assistant created in Python.
 This project allows you to understand how a conversational AI system works **without needing an API key or internet access**.
 
 
@@ -26,4 +26,5 @@ This project allows you to understand how a conversational AI system works **wit
    ```bash
    git clone https://github.com/EleniNtz13/chatgpt_prompt_assistant.git
    cd chatgpt_prompt_assistant
+
 
