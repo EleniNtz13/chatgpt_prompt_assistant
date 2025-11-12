@@ -12,7 +12,6 @@ This project allows you to understand how a conversational AI system works **wit
 - ⚙️ **Offline mode**: no API connection required
 - 🧩 **Easy upgrade path**: ready to connect to OpenAI’s API later
 
----
 
 ### 🧰 Technologies Used
 
@@ -20,11 +19,11 @@ This project allows you to understand how a conversational AI system works **wit
 - Built-in libraries only (`random`)
 - Designed for easy integration with the OpenAI API
 
----
 
 ### 🧠 Tools Used 
 
 - ChatGPT AI Tool for assistance and code optimization
+
 
 
 
