@@ -3,7 +3,7 @@
 A simple **offline simulation** of a ChatGPT-style assistant created in Python. It includes short-term memory to make the dialogue feel natural, even without connecting to the OpenAI API.
 This project allows you to understand how a conversational AI system works **without needing an API key or internet access**.
 
----
+--
 
 ### 🌟 Features 
 
@@ -25,5 +25,6 @@ This project allows you to understand how a conversational AI system works **wit
 ### 🧠 Tools Used 
 
 - ChatGPT AI Tool for assistance and code optimization
+
 
 
