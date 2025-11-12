@@ -14,6 +14,7 @@ This project allows you to understand how a conversational AI system works **wit
 
 
 
+
 ### 🧰 Technologies Used
 
 - **Python 3.10+**
@@ -22,9 +23,11 @@ This project allows you to understand how a conversational AI system works **wit
 
 
 
+
 ### 🧠 Tools Used 
 
 - ChatGPT AI Tool for assistance and code optimization
+
 
 
 
