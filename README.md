@@ -13,6 +13,7 @@ This project allows you to understand how a conversational AI system works **wit
 - 🧩 **Easy upgrade path**: ready to connect to OpenAI’s API later
 
 
+
 ### 🧰 Technologies Used
 
 - **Python 3.10+**
@@ -20,9 +21,11 @@ This project allows you to understand how a conversational AI system works **wit
 - Designed for easy integration with the OpenAI API
 
 
+
 ### 🧠 Tools Used 
 
 - ChatGPT AI Tool for assistance and code optimization
+
 
 
 
